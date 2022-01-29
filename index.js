@@ -1,2 +1,2 @@
-let n = process.argv[2];
-console.log(`hello ${n.toUpperCase()}! How are you?`);
+const n = process.argv[2];
+console.log(`yo ${n}, what's up dude.`);
